@@ -1,4 +1,4 @@
-# **Amplify landing page**
+# **Amplify landing page**$$$$$$
 
 Designed spotify's landing page using html css javascript. I also included responsiveness for mobile and tablet devices.
 
